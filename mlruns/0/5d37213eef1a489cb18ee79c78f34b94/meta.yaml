@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kelbenj/Udacity/MachineLearningDevOps/nd0821-c2-build-model-workflow-starter/mlruns/0/5d37213eef1a489cb18ee79c78f34b94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5d37213eef1a489cb18ee79c78f34b94
+run_uuid: 5d37213eef1a489cb18ee79c78f34b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641071477045
+status: 1
+tags: []
+user_id: kelbenj
