@@ -1,0 +1,34 @@
+name: basic_cleaning
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+
+      input_artifact:
+        description: raw data to be cleansed
+        type: string
+
+      output_artifact:
+        description: refined data
+        type: string
+
+      output_type:
+        description: type for the artifact
+        type: string
+
+      output_description:
+        description: the refined data
+        type: string
+
+      min_price:
+        description: the minimum cost of a rental
+        type: string
+
+      max_price:
+        description: the maximum cost of a rental
+        type: string
+
+
+    command: >-
+        python run.py  --input_artifact {input_artifact}  --output_artifact {output_artifact}  --output_type {output_type}  --output_description {output_description}  --min_price {min_price}  --max_price {max_price} 
