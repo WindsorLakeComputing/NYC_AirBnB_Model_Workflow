@@ -1,0 +1,6 @@
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+https://neptune.ai/blog/mlops
+https://ml-ops.org/content/references.html
+https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be
+https://medium.com/mlops-community/mlops-reducing-the-technical-debt-of-machine-learning-dac528ef39de
+
