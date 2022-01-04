@@ -38,7 +38,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/nd0821-c2-build-model-workflow-starter.git
+git clone https://github.com/bjk1456/nd0821-c2-build-model-workflow-starter.git
 ```
 
 and go into the repository:
@@ -59,7 +59,8 @@ file provided in the root of the repository and activate it:
 ```
 
 ### Get API key for Weights and Biases
-Let's make sure we are logged in to Weights & Biases. Get your API key from W&B by going to 
+Let's make sure we are logged in to Weights & Biases, https://wandb.ai/bjk1456/nyc_airbnb 
+Get your API key from W&B by going to 
 [https://wandb.ai/authorize](https://wandb.ai/authorize) and click on the + icon (copy to clipboard), 
 then paste your key into this command:
 
